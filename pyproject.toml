@@ -1,0 +1,11 @@
+[project]
+name = "cc-unix-procedural-textures"
+version = "0.1.0"
+description = "Procedural animated Minecraft textures (Python port)"
+readme = "README.md"
+license = { text = "BSD-3-Clause" }
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=1.26",
+    "pillow>=12.3.0",
+]
